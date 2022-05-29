@@ -11,6 +11,6 @@ The following code files have been uploaded:
 iii) Product Catalogue Processed Data.ipynb  -  Contains code for scraoung to capture  the product catalogue and present as a json file
 iv) Reviews.ipynb  -  Contains code for scraoung to build the customers review and presenting as json
 
-Out Files uploaded here are as follows:
+The following Output Files have been uploaded here:
 v) Product Catalogue Processed Data.json
 vi) Reviews.ipynb
